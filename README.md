@@ -1,6 +1,4 @@
 
-raw
-Readme · MD
 # 🎪 Circus Where Creativity Meets Code
  
 > *My first PHP project and what a way to start.*
@@ -52,7 +50,7 @@ This project was my **introduction to PHP** and backend web development. Through
  
 ---
  
-## 🚀 Getting Started
+## Getting Started
  
 ```bash
 # Clone the repository
