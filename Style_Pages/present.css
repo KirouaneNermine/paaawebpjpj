@@ -1,0 +1,212 @@
+.hero {
+    position: relative;
+    width: 100%;
+    height: 180px;
+    overflow: hidden;
+}
+
+.hero img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 30px;
+    color: white;
+}
+
+.hero-text h2 {
+    font-size: 22px;
+    font-weight: bold;
+    text-shadow: 1px 1px 6px black;
+    margin: 0;
+}
+
+.hero-text p {
+    font-size: 16px;
+    margin: 5px 0 0;
+    text-shadow: 1px 1px 4px black;
+}
+
+.hero-text span {
+    color: #ffdd00;
+    font-weight: bold;
+}
+
+body {
+    background-color: beige;
+    font-family: 'Cinzel Decorative', serif;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background: #111;
+    text-align: center;
+    padding: 16px;
+    margin-top: 40px;
+}
+
+footer p {
+    color: beige;
+}
+
+.inf {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 20px;
+    background: #ffdd00;
+    color: white;
+    margin-block-start: 10px;
+}
+
+h2 {
+    color: beige;
+}
+
+main {
+    padding: 20px 40px;
+}
+
+main div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+main div div {
+    background: white;
+    width: 200px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+main div div img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+main div div h3 {
+    font-size: 14px;
+    color: #111;
+    padding: 10px;
+}
+
+main div div p {
+    font-size: 13px;
+    color: #555;
+    padding: 2px 10px;
+}
+
+main div div input {
+    width: 50px;
+    margin: 8px 0 0 10px;
+    padding: 4px;
+    border: 1px solid #ccc;
+}
+
+main div div button {
+    background: #111;
+    color: beige;
+    border: none;
+    padding: 6px 12px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+main div div button:hover {
+    background: #ffdd00;
+    color: #111;
+}
+
+h2 {
+    color: #ffdd00;
+}
+
+img {
+    display: block;
+}
+
+form {
+    margin: 0;
+}
+
+button {
+    cursor: pointer;
+}
+main {
+    padding: 20px 40px;
+}
+
+.product-card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 220px;
+}
+
+.product-image img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.product-info {
+    padding: 10px;
+}
+
+.product-name {
+    font-size: 15px;
+    color: #111;
+    margin-bottom: 5px;
+}
+
+.product-price {
+    font-weight: bold;
+    font-size: 14px;
+    color: #111;
+}
+
+.product-stock {
+    color: #888;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.product-action {
+    padding: 10px;
+}
+
+.product-qty {
+    width: 50px;
+    padding: 4px;
+    border: 1px solid #ccc;
+    margin-bottom: 6px;
+    display: block;
+}
+
+.product-btn {
+    background: #111;
+    color: beige;
+    border: none;
+    padding: 7px 14px;
+    cursor: pointer;
+}
+
+.product-btn:hover {
+    background: #ffdd00;
+    color: #111;
+}
+
+#popo {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px 0;
+}
