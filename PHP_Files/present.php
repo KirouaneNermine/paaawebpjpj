@@ -161,7 +161,7 @@ if(isset($_SESSION['user_id'])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Cinzel+Decorative&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="present.css">
+    <link rel="stylesheet" href="Style_Pages/present.css">
     <title>Products:</title>
 </head>
 <body>
